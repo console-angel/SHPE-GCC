@@ -1,0 +1,11 @@
+# Mac OS X
+.DS_Store
+
+# Thumb DS_Store
+Thumbs.db
+
+# env files
+.env
+
+# .vscode
+.vscode/
